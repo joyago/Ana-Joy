@@ -1,0 +1,111 @@
+/***** Base Styles *****/
+body {
+	font-family: 'Montserrat', sans-serif;
+	color:#000000 ;
+}
+header{
+	height: 110px;
+}
+#top-section{
+	height: 468px;
+}
+#bottom-section{
+	height: 210px;
+}
+footer{
+	height: 80px;
+	clear: both;
+}
+/***** Grid *****/
+.full-width {
+	width: 1200px;
+	margin: 0 auto;
+}
+.half-width {
+	width: 600px;
+	float: left;
+}
+.third-width {
+	width: 400px;
+	float: left;
+}
+/***** Header *****/
+header h1 {
+	padding: 20px 0px;
+	font-weight: bold;
+	font-size: 30pt;
+	text-transform: uppercase;
+}
+header h1 span {
+	color:#77a466;
+}
+nav{
+	float: right;
+	padding: 50px 0px 45px;
+}
+nav ul li{
+	display: inline-block;
+	
+}
+nav ul li a{
+	text-transform: uppercase;
+	text-decoration:none;
+	font-size:10pt;
+	color:#77a466;
+	padding-left: 25px;
+}
+	
+/***** Top-Section****/
+img{
+	border-top: 3px solid #77a466;
+	border-bottom: 3px solid #77a466;
+}
+#top-section h3{
+	text-transform: uppercase;
+	color: #77a466;
+}
+/***** Bottom-Section*****/
+#bottom-section{
+	border-top: 1px solid #eee;
+   border-bottom: 1px solid #eee;	
+}
+a {
+	text-decoration: none;
+	color: #77a466;
+}
+.first-section{
+	border-right: 1px solid #eee;
+}
+.middle-section{
+	border-right: 1px solid #eee;
+	padding-left: 20px;
+}
+
+/***** Footer *****/
+footer p{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 14pt;
+	padding: 30px;
+}	
+footer span{
+	color: #77a466;
+	font-family: 'Great Vibes', cursive;
+	text-transform: lowercase;
+}
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
